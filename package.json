@@ -1,7 +1,7 @@
 {
   "name": "cn.etetet.numeric",
   "displayName": "ET.Numeric",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2022.3",
   "description": "et numeric",
   "author": {
@@ -14,7 +14,7 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.unit": "0.0.1"
+    "cn.etetet.unit": "0.0.2"
   },
   "publishConfig": 
   { 
