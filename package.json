@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "cn.etetet.numeric",
   "displayName": "ET.Numeric",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "unity": "2022.3",
   "description": "一个数值组件，提供了kv的实现",
   "author": {
@@ -14,10 +14,9 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.unit": "0.0.3"
+    "cn.etetet.unit": "0.0.4"
   },
-  "publishConfig": 
-  { 
-    "registry": "https://npm.pkg.github.com/@ET-Packages" 
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
   }
 }
